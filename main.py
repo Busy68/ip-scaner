@@ -27,3 +27,5 @@ print(text.renderText("IP SCANER BY GEF3DX"))
 ip = input("Введите пожалуйста IP или нажмите [ENTER] чтоб узнать иформацию о своем IP\n")
 
 get_info_by_ip(ip)
+
+input()
